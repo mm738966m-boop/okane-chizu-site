@@ -2,3 +2,4 @@ build.mjs
 .key
 .DS_Store
 src/
+build_mendan.mjs
